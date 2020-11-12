@@ -1,1 +1,1 @@
-#Genese Python Training Assignements by Spandan
+# Genese Python Training Assignements by Spandan
